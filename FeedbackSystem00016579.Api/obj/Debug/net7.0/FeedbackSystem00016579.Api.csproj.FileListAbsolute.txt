@@ -1,0 +1,86 @@
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/appsettings.Development.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/appsettings.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.exe
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.deps.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.runtimeconfig.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.pdb
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/AutoMapper.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Humanizer.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/System.CodeDom.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.AssemblyReference.cache
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.AssemblyInfoInputs.cache
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.AssemblyInfo.cs
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.CoreCompileInputs.cache
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.MvcApplicationPartsAssemblyInfo.cs
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.MvcApplicationPartsAssemblyInfo.cache
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.build.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.development.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.FeedbackSystem00016579.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.FeedbackSystem00016579.Api.props
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FeedbackSystem00016579.Api.props
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FeedbackSystem00016579.Api.props
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.pack.json
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/scopedcss/bundle/FeedbackSystem00016579.Api.styles.css
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.CopyComplete
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/refint/FeedbackSystem00016579.Api.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.pdb
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.genruntimeconfig.cache
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/obj/Debug/net7.0/ref/FeedbackSystem00016579.Api.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Npgsql.dll
+E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem00016579.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/appsettings.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.deps.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.runtimeconfig.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/FeedbackSystem00016579.Api.pdb
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/AutoMapper.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Humanizer.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Npgsql.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.AssemblyReference.cache
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.AssemblyInfoInputs.cache
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.AssemblyInfo.cs
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.CoreCompileInputs.cache
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.FeedbackSystem00016579.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.FeedbackSystem00016579.Api.props
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FeedbackSystem00016579.Api.props
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FeedbackSystem00016579.Api.props
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/scopedcss/bundle/FeedbackSystem00016579.Api.styles.css
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.CopyComplete
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/refint/FeedbackSystem00016579.Api.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.pdb
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.genruntimeconfig.cache
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/ref/FeedbackSystem00016579.Api.dll
