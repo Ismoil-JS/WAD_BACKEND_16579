@@ -78,9 +78,10 @@ E:/WIUT/Level 5/Web Module/00016579/FeedbackSystem00016579/FeedbackSystem0001657
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.build.json
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/staticwebassets.development.json
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/scopedcss/bundle/FeedbackSystem00016579.Api.styles.css
-/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.csproj.CopyComplete
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.dll
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/refint/FeedbackSystem00016579.Api.dll
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.pdb
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.genruntimeconfig.cache
 /Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/ref/FeedbackSystem00016579.Api.dll
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/FeedbackSystem00016579.Api.sourcelink.json
+/Users/ismoilturgunpulatov/Desktop/FeedbackSystem00016579 2/FeedbackSystem00016579.Api/obj/Debug/net7.0/Feedback.908E081F.Up2Date
